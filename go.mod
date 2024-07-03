@@ -1,4 +1,4 @@
-module gpt-client
+module github.com/nikit9s/gpt-client
 
 go 1.22.3
 
