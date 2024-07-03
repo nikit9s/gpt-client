@@ -1,7 +1,7 @@
 package gptclient
 
 import (
-	"gpt-client/internal/gpt"
+	"github.com/nikit9s/gpt-client/internal/gpt"
 )
 
 // Client представляет собой публичный интерфейс клиента для работы с GPT API
