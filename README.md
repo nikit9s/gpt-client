@@ -9,4 +9,5 @@ This project is a library for interacting with the GPT API. The library aims to 
 - Generate a response using a session and settings.
 ```bash
 go get github.com/nikit9s/gpt-client
+go mod tidy
 ```
